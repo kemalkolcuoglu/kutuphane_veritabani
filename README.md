@@ -1,4 +1,4 @@
-#                           KÜTÜPHANE VERİTABANI 2017.9.10                                #
+# KÜTÜPHANE VERİTABANI 2017.9.10
 
 Python v3.5.2 ve PyQt v5.6 kullanılmıştır! Beceri geliştirme için yazılmış bu uygulama 21 saatte hayata geçirildi. Ağırlıklı olarak 'list' veri yapısı kullanıldı. Modüler bir yapıda çalışması için neredeyse her işlem için ayrı methodlar yazıldı.
 
